@@ -1,5 +1,7 @@
 # Sample NodeJS application for Azure Pipelines docs
 
+Hello World!
+
 [![Build Status](https://dev.azure.com/manfho/Contoso%20Project/_apis/build/status/nebula0248.pipelines-javascript)](https://dev.azure.com/manfho/Contoso%20Project/_build/latest?definitionId=1)
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
